@@ -17,19 +17,16 @@ It uses **Convolutional Neural Networks (CNNs)** and **Transfer Learning (ResNet
 
 ## Folder Structure
 
-PneumoniaDetection/
+```text
+Medical_Pneumonia_Detection/
 │
-├── data/ # Dataset (not included)
-├── src/ # Code: data loading, modeling, training, evaluation, prediction
-├── saved_models/ # Trained model weights
-├── requirements.txt
-└── README.md
+├── data/                # Dataset directory
+├── src/                 # Source code
+├── saved_models/        # Trained model weights
+├── requirements.txt     # Python dependencies
+└── README.md            # Project documentation
 
-yaml
-Copy code
-
----
-
+```
 ## How to Run
 
 1. Install dependencies:
@@ -41,20 +38,17 @@ pip install -r requirements.txt
 2. Train the model:
 
 ```bash
-Copy code
 python src/train.py
 ```
 
 3. Evaluate:
 
 ```bash
-Copy code
 python src/evaluate.py
 ```
 4. Predict new images:
 
 ```bash
-Copy code
 python src/predict.py
 ```
 
