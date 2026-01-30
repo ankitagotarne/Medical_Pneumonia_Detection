@@ -7,7 +7,7 @@ It uses **Convolutional Neural Networks (CNNs)** and **Transfer Learning (ResNet
 
 ## Features
 
-- Preprocessing of X-ray images (normalization, augmentation)
+- Preprocessing of X-ray images (normalization, augmentation) 
 - Transfer learning with ResNet50
 - Early stopping and model checkpointing
 - Evaluation with **confusion matrix** and **ROC curve**
