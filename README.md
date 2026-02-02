@@ -15,7 +15,7 @@ It uses **Convolutional Neural Networks (CNNs)** and **Transfer Learning (ResNet
 
 ---
 
-## Folder Structure
+## Folder Structure 
 
 ```text
 Medical_Pneumonia_Detection/
