@@ -13,7 +13,7 @@ It uses **Convolutional Neural Networks (CNNs)** and **Transfer Learning (ResNet
 - Evaluation with **confusion matrix** and **ROC curve**
 - Predict pneumonia on new images
 
----
+--- 
 
 ## Folder Structure 
 
