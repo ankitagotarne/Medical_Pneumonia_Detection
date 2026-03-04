@@ -1,4 +1,4 @@
-# Pneumonia Detection from Chest X-Ray Images
+# Pneumonia Detection from Chest X-Ray Images 
 
 This project implements a **medical image classification system** to detect **pneumonia** using chest X-ray images.  
 It uses **Convolutional Neural Networks (CNNs)** and **Transfer Learning (ResNet50)** for high accuracy.
